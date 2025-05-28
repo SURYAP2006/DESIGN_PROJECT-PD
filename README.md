@@ -286,24 +286,28 @@ Step 3 : Performing Synthesis
 
 RTL Simulation:
 
-![image](https://github.com/user-attachments/assets/5026f757-ad54-4df6-8885-289dd68a0bcf)
+![Screenshot 2025-05-28 155710](https://github.com/user-attachments/assets/edd86e76-f576-42f7-a007-987904b1e6f9)
 
 
 Synthesis RTL Schematic:
 
-![Screenshot (242)](https://github.com/user-attachments/assets/64a31f92-641f-430a-b341-d003d1b131d9)
+![Screenshot 2025-05-28 162213](https://github.com/user-attachments/assets/6aeeed0a-f226-4664-b078-b9b5841016e7)
+
+
 
 #### Area Report:
+![Screenshot 2025-05-28 162520](https://github.com/user-attachments/assets/2062a4bf-2750-4598-a183-bb7a98ea49b7)
 
-![Screenshot (243)](https://github.com/user-attachments/assets/0b27143f-617b-4f49-982c-872b9187419a)
 
 #### Power Report:
 
-![Screenshot (244)](https://github.com/user-attachments/assets/d0dcff3d-e158-4258-b907-4787ee862583)
+![Screenshot 2025-05-28 162425](https://github.com/user-attachments/assets/7fa06f70-2053-4902-8e7f-bcedf47deabb)
+
 
 #### Timing Report:
 
-![Screenshot (246)](https://github.com/user-attachments/assets/4a9422c6-c654-4068-bab8-09d4d67b84c9)
+![Screenshot 2025-05-28 162445](https://github.com/user-attachments/assets/21fc5a1a-f08b-445d-85da-73ded506507e)
+
 
 ### FLOORPLANNING:
 
